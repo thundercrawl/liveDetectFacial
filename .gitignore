@@ -1,0 +1,21 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+.xls
+out
+gen
+target
+
+#visual studio ignore
+*.obj
+*.pdb
+*.log
+*.tlog
+LivePersonDetect/Release
+LivePersonDetect/x64
+LivePersonDetect/Debug
+LivePersonDetect/.vs
